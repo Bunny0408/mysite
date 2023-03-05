@@ -1,0 +1,68 @@
+body {
+    /* background-color: #92e8e5;  */
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1{
+    font-size: 562%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;    
+}
+
+
+.top-container{
+    /* display: none; */
+    background-color: #b9e9e7; 
+    padding-top: 100px;
+   
+
+}
+
+.grey{
+    background-color: grey;
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+ 
+.profile-img {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+    bottom: 50px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.double-bottom{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 0;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 430px;
+    top: 50px;
+}
